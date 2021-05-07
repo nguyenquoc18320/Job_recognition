@@ -2,6 +2,7 @@
 Goal: The project is create to recognize a job (in 10 jobs) in an image.
 
 Description:
+  + Link dataset: https://github.com/OlafenwaMoses/IdenProf/releases/download/v1.0/idenprof-jpg.zip
   + 10 jobs: []
   + Trained models are stored in model folder, we can use them right to test
  
